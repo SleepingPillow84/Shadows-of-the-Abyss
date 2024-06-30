@@ -1,4 +1,4 @@
-# MUST USE FABRIC 1.19.2-1.20.4 + API:
+# MUST USE FABRIC 1.20.4 + API:
 Fabric api: https://modrinth.com/mod/fabric-api
 Fabric installer: https://fabricmc.net/use/installer/
 
